@@ -1,6 +1,6 @@
-## About Dukan Project
+## About Mygiftybox Project
 
-Dukan Ecommerce Project
+Mygiftybox Ecommerce Project
 
 ## Note To add necessary files <br>
 ```
